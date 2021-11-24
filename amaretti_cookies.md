@@ -16,6 +16,10 @@
 5) Bake until pale golden brown, about 15–20 minutes.
 6) Let cool 5 minutes before moving to cooling rack.
 
+# Notes
+* The amount of egg whites seems totally inadaquate for the amount of almond flour.
+* Tried adding 1/8 cup milk with almond extract (before egg whites). Helps, but adds about 10 minutes to the cooking time.
+
 # Links
 * https://www.foodnetwork.com/recipes/food-network-kitchen/amaretti-cookie-11933611
 * https://www.masterclass.com/articles/amaretti-cookie-recipe#amaretti-cookie-recipe
