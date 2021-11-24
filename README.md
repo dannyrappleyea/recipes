@@ -1,3 +1,2 @@
-# Git Notes Template
-
-Use this template to create a git-notes repository.
+# Recipes and Cooking
+Curated list of my favorite recipes and cooking techniques.
