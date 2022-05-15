@@ -3,7 +3,7 @@ Trying to create a perfect small breakfast.
 
 ## Potato and Bacon
 ### Ingredients
-* 1/2 batch [rough puff pastry](./rough_puff_pastry.md)
+* 1/2 batch [rough puff pastry](rough_puff_pastry.md)
 * small pack bacon
 * small onion
 * 3 small potatoes
