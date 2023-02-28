@@ -1,3 +1,5 @@
+is:: [[recipe]]
+
 # Ingredients
 * 2 1/2 cups almond flour
 * 1 cup sugar or other sweetener
@@ -20,6 +22,6 @@
 * The amount of egg whites seems totally inadaquate for the amount of almond flour.
 * Tried adding 1/8 cup milk with almond extract (before egg whites). Helps, but adds about 10 minutes to the cooking time.
 
-# Links
+# References
 * https://www.foodnetwork.com/recipes/food-network-kitchen/amaretti-cookie-11933611
 * https://www.masterclass.com/articles/amaretti-cookie-recipe#amaretti-cookie-recipe
