@@ -1,7 +1,4 @@
----
-tags: a/note
----
-in:: [[recipes]]
+is:: [[recipe]]
 
 # Ingredients
 * 2 1/2 cups almond flour

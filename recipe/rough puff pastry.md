@@ -1,7 +1,4 @@
----
-tags: a/note
----
-in:: [[recipes]]
+is:: [[recipe]]
 
 # Ingredients
 * 
