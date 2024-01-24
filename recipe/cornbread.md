@@ -1,5 +1,7 @@
-is:: [[recipe]]
-from:: https://www.foodnetwork.com/recipes/alton-brown/creamed-corn-cornbread-recipe-190996
+---
+is: "[[recipe]]"
+from: https://www.foodnetwork.com/recipes/alton-brown/creamed-corn-cornbread-recipe-190996
+---
 
 # Intro
 

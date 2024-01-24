@@ -1,4 +1,6 @@
-is:: [[recipe]]
+---
+is: "[[recipe]]"
+---
 
 # Ingredients
 * 2 1/2 cups almond flour

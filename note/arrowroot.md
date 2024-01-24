@@ -1,5 +1,7 @@
-is:: [[note]]
-from:: [[cooking]]
+---
+is: "[[note]]"
+from: "[[cooking]]"
+---
 
 # Notes
 - 2 tsp arrowroot = 1 tbsp cornflou

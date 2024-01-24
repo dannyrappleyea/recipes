@@ -1,4 +1,6 @@
-is:: [[recipe]]
+---
+is: "[[recipe]]"
+---
 
 # Ingredients
 * 

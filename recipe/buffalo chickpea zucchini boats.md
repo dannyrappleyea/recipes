@@ -1,4 +1,6 @@
-is:: [[recipe]]
+---
+is: "[[recipe]]"
+---
 
 # Intro
 A great way to combine veggies and buffalo sauce.

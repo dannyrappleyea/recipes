@@ -1,5 +1,7 @@
-is:: [[note]]
-from:: 
+---
+is: "[[note]]"
+from: 
+---
 
 # Notes
 
