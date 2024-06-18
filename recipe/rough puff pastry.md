@@ -1,5 +1,5 @@
 ---
-is: "[[recipe]]"
+is_a: "[[recipe]]"
 ---
 
 # Ingredients

@@ -1,5 +1,5 @@
 ---
-is: "[[recipe]]"
+is_a: "[[recipe]]"
 ---
 
 Trying to create a perfect small breakfast. These are potato and bacon.

@@ -1,5 +1,5 @@
 ---
-is: "[[recipe]]"
+is_a: "[[recipe]]"
 from: https://www.foodnetwork.com/recipes/alton-brown/creamed-corn-cornbread-recipe-190996
 ---
 
