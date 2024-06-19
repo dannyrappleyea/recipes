@@ -1,6 +1,7 @@
 ---
-is_a: "[[note]]"
-from: "[[cooking]]"
+is_a:
+  - "[[note]]"
+topics: "[[cooking]]"
 ---
 
 # Notes
